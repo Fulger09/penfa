@@ -5,7 +5,7 @@ module.exports = {
   mode: 'universal',
 
   /*
-  ** Headerss of the page
+  ** Headers of the page
   */
   head: {
     title: pkg.name,
