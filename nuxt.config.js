@@ -1,9 +1,5 @@
 const pkg = require('./package')
-export default {
-  router: {
-    base: '/penfa/'
-  }
-}
+
 
 module.exports = {
   mode: 'universal',
