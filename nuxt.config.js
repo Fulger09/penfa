@@ -6,7 +6,7 @@ module.exports = {
   router: { base: '/penfa/' },
 
   /*
-  ** Headers of the page
+  ** Headerss of the page
   */
   head: {
     title: pkg.name,
