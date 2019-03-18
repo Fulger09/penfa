@@ -1,7 +1,3 @@
-# vue-argon-design-system-nuxt
-
-> Vue Argon Design System for Nuxt
-
 ## Build Setup
 
 ``` bash

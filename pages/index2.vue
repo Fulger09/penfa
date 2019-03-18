@@ -3,10 +3,10 @@
     <div>
       <logo />
       <h1 class="title">
-        vue-argon-design-system-nuxt
+        Penfa
       </h1>
       <h2 class="subtitle">
-        Vue Argon Design System for Nuxt
+        Penfa
       </h2>
       <div class="links">
         <a
