@@ -1,9 +1,4 @@
 const pkg = require('./package')
-export default {
-  router: {
-    base: 'penfa.github.io'
-  }
-}
 
 
 module.exports = {
