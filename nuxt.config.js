@@ -3,7 +3,7 @@ const pkg = require('./package')
 
 module.exports = {
   mode: 'universal',
-
+  router: { base: '/penfa/' },
   /*
   ** Headers of the page
   */
