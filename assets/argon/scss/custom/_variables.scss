@@ -140,9 +140,9 @@ $shapes-primary-colors: map-merge((
 
 $shapes-default-colors: () !default;
 $shapes-default-colors: map-merge((
-  "step-1-gradient-bg":         #7795f8,
-  "step-2-gradient-bg":         #6772e5,
-  "step-3-gradient-bg":         #555abf,
+  "step-1-gradient-bg":         #F3EFE7,
+  "step-2-gradient-bg":         #DEC3C8,
+  "step-3-gradient-bg":         #f6d365,
   "span-1-bg":                  #7795f8,
   "span-2-bg":                  #7b9aff,
   "span-3-bg":                  #6f8ff8,
@@ -661,7 +661,7 @@ $navbar-nav-link-border-radius:     $border-radius !default;
 $navbar-dark-bg:                    transparent !default;
 $navbar-dark-hover-bg:              rgba(255, 255, 255, .1);
 $navbar-dark-active-bg:             rgba(255, 255, 255, .1);
-$navbar-dark-color:                 rgba($white, .95);
+$navbar-dark-color:                 $black;
 $navbar-dark-hover-color:           rgba($white, .65);
 $navbar-dark-active-color:          rgba($white, .65);
 $navbar-dark-disabled-color:        rgba($white, .25);

@@ -14,7 +14,7 @@ module.exports = {
       { name: 'X-UA-Compatible', content: 'IE=edge' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1.0, maximum-scale=1.5, user-scalable=1, shrink-to-fit=no' },
       { hid: 'description', name: 'description', content: pkg.description },
-      { name: 'author', content: 'Creative Tim, Cristi Jora' }
+      { name: 'author', content: 'Penfa' }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },

@@ -1,8 +1,8 @@
 {
   "name": "vue-argon-design-system-nuxt",
   "version": "1.0.0",
-  "description": "Vue Argon Design System for Nuxt",
-  "author": "sames",
+  "description": "Penfa",
+  "author": "Penfa",
   "private": true,
   "scripts": {
     "dev": "nuxt",

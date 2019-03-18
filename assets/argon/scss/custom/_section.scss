@@ -65,8 +65,15 @@
             }
 
             + .shape-container {
-                padding-top: 18rem;
-                padding-bottom: 19rem;
+                padding-top: 7rem;
+                padding-bottom: 10rem;
+            }
+
+            @media (max-width:880px) {
+                + .shape-container {
+                    padding-top: 0;
+                    padding-bottom: 0;
+                }
             }
         }
     }
@@ -76,7 +83,7 @@
         transform-origin: 0;
 
         span {
-            transform: skew(8deg);
+            transform: skew(30deg);
         }
     }
 
@@ -181,7 +188,7 @@
         span {
             height: 120px;
             width: 120px;
-            border-radius: 50%;
+            border-radius: 16%;
         }
 
         .span-200 {
@@ -292,7 +299,7 @@
         }
 
         &.shape-default {
-            background: linear-gradient(150deg, shapes-default-color("step-1-gradient-bg") 15%, shapes-default-color("step-2-gradient-bg") 70%, shapes-default-color("step-3-gradient-bg") 94%);
+            background: linear-gradient(150deg, shapes-default-color("step-1-gradient-bg") 76%, shapes-default-color("step-2-gradient-bg") 70%, shapes-default-color("step-3-gradient-bg") 94%);
         }
 
         &.shape-light {
