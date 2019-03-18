@@ -3,7 +3,7 @@
     <header class="header-global">
       <base-nav class="navbar-main" transparent type="" effect="light" expand>
         <router-link slot="brand" class="navbar-brand mr-lg-5" to="/">
-          <img v-lazy="'/argon/img/brand/penfalogo.png'" alt="logo">
+          <img src="/penfa/argon/img/brand/penfalogo.png" alt="logo">
 
         </router-link>
 

@@ -44,7 +44,7 @@
             <div class="row row-grid">
               <div class="col-lg-5">
                 <div class="card bg-default shadow border-0">
-                  <video width="100%" autoplay loop src="/argon/img/theme/Meeting - 2340.mp4" type="video/mp4" class="card-img-top">
+                  <video width="100%" autoplay loop src="/penfa/argon/img/theme/Meeting - 2340.mp4" type="video/mp4" class="card-img-top">
 
                   </video>
                   <blockquote class="card-blockquote">
@@ -105,8 +105,8 @@
                           controls
                           indicators>
                 <!-- Text slides with image -->
-                <b-carousel-slide img-src="/argon/img/theme/img-1-1200x1000.jpg"></b-carousel-slide>
-                <b-carousel-slide img-src="/argon/img/theme/img-2-1200x1000.jpg"></b-carousel-slide>
+                <b-carousel-slide img-src="/penfa/argon/img/theme/img-1-1200x1000.jpg"></b-carousel-slide>
+                <b-carousel-slide img-src="/penfa/argon/img/theme/img-2-1200x1000.jpg"></b-carousel-slide>
               </b-carousel>
             </div>
           </div>
@@ -120,34 +120,34 @@
                     <div class="col-lg-2 col-4">
                       <a href="#" target="_blank" data-toggle="tooltip"
                          data-original-title="Text content">
-                        <img :src="'/argon/img/theme/text.png'" class="img-fluid opacity-5"/>
+                        <img :src="'/penfa/argon/img/theme/text.png'" class="img-fluid opacity-5"/>
                       </a>
                     </div>
                     <div class="col-lg-2 col-4">
                       <a href="#" target="_blank" data-toggle="tooltip"
                          data-original-title="Graphic content">
-                        <img src="/argon/img/theme/image.png"
+                        <img src="/penfa/argon/img/theme/image.png"
                              class="img-fluid opacity-5">
                       </a>
                     </div>
                     <div class="col-lg-2 col-4">
                       <a href="#" data-toggle="tooltip"
                          data-original-title="Programming">
-                        <img src="/argon/img/theme/code.png"
+                        <img src="/penfa/argon/img/theme/code.png"
                              class="img-fluid opacity-5">
                       </a>
                     </div>
                     <div class="col-lg-2 col-4">
                       <a href="#" target="_blank" data-toggle="tooltip"
                          data-original-title="Video content">
-                        <img src="/argon/img/theme/video.png"
+                        <img src="/penfa/argon/img/theme/video.png"
                              class="img-fluid opacity-5">
                       </a>
                     </div>
                     <div class="col-lg-2 col-4">
                       <a href="#" target="_blank" data-toggle="tooltip"
                          data-original-title="Photo content">
-                        <img src="/argon/img/theme/photo.png"
+                        <img src="/penfa/argon/img/theme/photo.png"
                              class="img-fluid opacity-5">
                       </a>
                     </div>
@@ -320,7 +320,7 @@
           <div class="col-lg-12 row row-grid justify-content-center">
             <div class="col-lg-4">
               <div class="card bg-default shadow border-0">
-                <img src="/argon/img/theme/ContentStrategy-1.jpg" alt="asd" class="card-img-top">
+                <img src="/penfa/argon/img/theme/ContentStrategy-1.jpg" alt="asd" class="card-img-top">
                 <blockquote class="card-blockquote">
                   <svg preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 583 95"
                        class="svg-bg">
@@ -334,7 +334,7 @@
             </div>
             <div class="col-lg-4">
               <div class="card bg-default shadow border-0">
-                <img src="/argon/img/theme/visual-content-creation-feat.jpg" alt="asd" class="card-img-top">
+                <img src="/penfa/argon/img/theme/visual-content-creation-feat.jpg" alt="asd" class="card-img-top">
                 <blockquote class="card-blockquote">
                   <svg preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 583 95"
                        class="svg-bg">
@@ -348,7 +348,7 @@
             </div>
             <div class="col-lg-4">
               <div class="card bg-default shadow border-0">
-                <img src="/argon/img/theme/Content-Creation-Or-SEO-Whats-More-Important.jpg" alt="asd" class="card-img-top">
+                <img src="/penfa/argon/img/theme/Content-Creation-Or-SEO-Whats-More-Important.jpg" alt="asd" class="card-img-top">
                 <blockquote class="card-blockquote">
                   <svg preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 583 95"
                        class="svg-bg">
