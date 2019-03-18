@@ -45,7 +45,7 @@
               <div class="col-lg-5">
                 <div class="card bg-default shadow border-0">
                   <video width="100%" autoplay loop>
-                    <source v-if="src" :src="'argon/img/theme/Meeting - 2340.mp4'" :type="'video/mp4'" class="card-img-top">
+                    <source src='/argon/img/theme/Meeting - 2340.mp4' type="video/mp4" class="card-img-top">
                   </video>
                   <blockquote class="card-blockquote">
                     <svg preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 583 95"
