@@ -120,7 +120,7 @@
                     <div class="col-lg-2 col-4">
                       <a href="#" target="_blank" data-toggle="tooltip"
                          data-original-title="Text content">
-                        <img src="/argon/img/theme/text.png"
+                        <img :src="'/argon/img/theme/text.png'"/>
                              class="img-fluid opacity-5">
                       </a>
                     </div>
