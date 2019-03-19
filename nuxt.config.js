@@ -9,7 +9,7 @@ module.exports = {
   ** Headerss of the page
   */
   head: {
-    title: pkg.name,
+    title: 'Penfa app',
     meta: [
       { charset: 'utf-8' },
       { name: 'X-UA-Compatible', content: 'IE=edge' },
