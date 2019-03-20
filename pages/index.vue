@@ -28,7 +28,8 @@
                           <span class="display-3">Empowers brands and content creators.</span>
                         </h1>
                         <div class="btn-wrapper pt-4">
-                          <a href="#" class="btn btn-default mt-3 mt-md-0">Subscribe for Early Access</a>
+                          <!--<a href="#" class="btn btn-default mt-3 mt-md-0">Subscribe for Early Access</a>-->
+                          <button onclick="growsurf.open('md1c9e')" class="btn btn-default mt-3 mt-md-0">Subscribe for Early Access</button>
                         </div>
                       </div>
                     </div>
