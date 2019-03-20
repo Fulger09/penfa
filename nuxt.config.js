@@ -14,7 +14,7 @@ module.exports = {
       { charset: 'utf-8' },
       { name: 'X-UA-Compatible', content: 'IE=edge' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1.0, maximum-scale=1.5, user-scalable=1, shrink-to-fit=no' },
-      { hid: 'description', name: 'description', content: pkg.description },
+      { hid: 'description', name: 'description', content: 'Penfa app' },
       { name: 'author', content: 'Penfa' }
     ],
     link: [
