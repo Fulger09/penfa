@@ -25,7 +25,7 @@
                     <div class="row justify-content-center align-items-center">
                       <div class="col-lg-12 text-center">
                         <h1 class="display-1">AI-curated Content Delivery
-                          <span class="display-3">Empowers brands and creators.</span>
+                          <span class="display-3">Empowers brands and content creators.</span>
                         </h1>
                         <div class="btn-wrapper pt-4">
                           <a href="#" class="btn btn-default mt-3 mt-md-0">Subscribe for Early Access</a>
