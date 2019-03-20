@@ -17,7 +17,7 @@
         <div class="container shape-container">
               <div class="row justify-content-center align-items-center mb-4">
                 <div class="col-lg-9 text-center">
-                  <p class="lead">AI-curated Penfa brings brands and certified content creators together, making the discovery of <span class="badge badge-pill badge-secondary">meaningful content</span> easier. Continuously, curated, secure.</p>
+                  <p class="lead">Penfa brings brands and certified content creators together, making the discovery of <span class="badge badge-pill badge-secondary">meaningful content</span> buzzword. AI-curated, continuous, secure.</p>
                 </div>
               </div>
                   <div class="icons-container2 mt-5">
