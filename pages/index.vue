@@ -24,7 +24,7 @@
                     <!-- Center -->
                     <div class="row justify-content-center align-items-center">
                       <div class="col-lg-12 text-center">
-                        <h1 class="display-1">Streamline your creativity
+                        <h1 class="display-1">Streamline Your Creativity
                           <span class="display-3">Empowers brands and content creators.</span>
                         </h1>
                         <div class="btn-wrapper pt-4">
