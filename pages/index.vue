@@ -17,14 +17,14 @@
         <div class="container shape-container">
               <div class="row justify-content-center align-items-center mb-4">
                 <div class="col-lg-9 text-center">
-                  <p class="lead">Penfa brings brands and certified content creators together, making the discovery of <span class="badge badge-pill badge-secondary">meaningful content</span> easier. Online, curated, secure.</p>
+                  <p class="lead">AI-curated Penfa brings brands and certified content creators together, making the discovery of <span class="badge badge-pill badge-secondary">meaningful content</span> easier. Continuously, curated, secure.</p>
                 </div>
               </div>
                   <div class="icons-container2 mt-5">
                     <!-- Center -->
                     <div class="row justify-content-center align-items-center">
                       <div class="col-lg-12 text-center">
-                        <h1 class="display-1">AI-curated Content Delivery
+                        <h1 class="display-1">Streamline your creativity
                           <span class="display-3">Empowers brands and content creators.</span>
                         </h1>
                         <div class="btn-wrapper pt-4">
