@@ -86,9 +86,7 @@
           <!--</a>-->
           <!--</li>-->
           <li class="nav-item d-none d-lg-block ml-lg-4">
-            <a href="#" target="" rel="noopener">
               <button onclick="growsurf.open('9ydw1n')" class="btn btn-outline-default">Notify when it happens</button>
-            </a>
           </li>
         </ul>
       </base-nav>
