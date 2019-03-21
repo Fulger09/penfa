@@ -10,6 +10,9 @@ module.exports = {
   */
   head: {
     title: 'Penfa app',
+    script: [
+      { src: '//js.growsurf.com/v1' }
+    ],
     meta: [
       { charset: 'utf-8' },
       { name: 'X-UA-Compatible', content: 'IE=edge' },
@@ -20,10 +23,7 @@ module.exports = {
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
       { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700' }
-    ],
-      script: [
-        { src: '//js.growsurf.com/v1' }
-      ]
+    ]
   },
 
   /*
