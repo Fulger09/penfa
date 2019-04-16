@@ -22,7 +22,7 @@ module.exports = {
       { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700' }
     ],
       script: [
-        { text: '(function(g,r,s,f){g.growsurf={};g.grsfSettings={campaignId:"b3y5o1",version:"1.0.0"};s=r.getElementsByTagName("head")[0];f=r.createElement("script");f.async=1;f.src="https://growsurf.com/growsurf.js"+"?v="+g.grsfSettings.version;f.setAttribute("grsf-campaign", g.grsfSettings.campaignId);!g.grsfInit?s.appendChild(f):"";})(window,document);' }
+        '/Growsurf.js'
       ]
   },
 
