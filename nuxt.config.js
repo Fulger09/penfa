@@ -23,8 +23,7 @@ module.exports = {
     ],
       script: [
         { innerHTML: '(function(g,r,s,f){g.growsurf={};g.grsfSettings={campaignId:"b3y5o1",version:"1.0.0"};s=r.getElementsByTagName("head")[0];f=r.createElement("script");f.async=1;f.src="https://growsurf.com/growsurf.js"+"?v="+g.grsfSettings.version;f.setAttribute("grsf-campaign", g.grsfSettings.campaignId);!g.grsfInit?s.appendChild(f):"";})(window,document);', type: 'text/javascript'}
-      ],
-    __dangerouslyDisableSanitizers: ['script']
+      ]
 
   },
 
